@@ -5,6 +5,7 @@
 2. [Análise Exploratória de Dados](#análise-exploratória-de-dados)
 3. [Limpeza de Dados](#limpeza-de-dados)
 4. [Conclusão](#conclusão)
+5. [Referências](#referências)
 
 ## Introdução
 O dataframe utilizado neste projeto contém dados coletados de [um estudo realizado entre 1874 e 1884 na Mayo Clinic sobre cirrose biliar primária](https://www.kaggle.com/datasets/aadarshvelu/liver-cirrhosis-stage-classification).
@@ -54,3 +55,5 @@ Antes de iniciar a limpeza de dados, foram realizadas as seguintes etapas de pr�
         - `Tempo de Protrombina (s)`: Prolongamento indicativo de comprometimento na coagulação sanguínea.
 
 ## Conclusão
+## Referências
+-Marini, S., & Fraga, R. Título da matéria. MedicinaNet, 2014. Disponível em: [https://www.medicinanet.com.br/conteudos/revisoes/5619/cirrose_e_suas_complicacoes.htm].
