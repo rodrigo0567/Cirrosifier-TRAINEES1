@@ -40,3 +40,6 @@
         - `Aspartato Aminotransferase (U/L)`: Indicador de dano hepático.
         - `Plaquetas (ml/1000)`: Associadas a complicações hepáticas.
         - `Tempo de Protrombina (s)`: Prolongamento indicativo de comprometimento na coagulação sanguínea.
+        - 
+## Referências
+-Marini, S., & Fraga, R. Título da matéria. MedicinaNet, 2014. Disponível em: [https://www.medicinanet.com.br/conteudos/revisoes/5619/cirrose_e_suas_complicacoes.htm].
